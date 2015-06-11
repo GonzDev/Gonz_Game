@@ -1,0 +1,7 @@
+// Static NPC
+name=NPC_1
+width=32
+height=32
+x_Tile=16
+y_Tile=8
+tileset=Default.png

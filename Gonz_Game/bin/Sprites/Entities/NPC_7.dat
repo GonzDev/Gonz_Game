@@ -1,0 +1,8 @@
+// Looped NPC
+name=NPC_7
+width=32
+height=32
+x_Tile=13
+y_Tile=19
+tileset=Default.png
+sequence=right-right-right-right-right-right-right-right-right-right

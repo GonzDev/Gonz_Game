@@ -1,0 +1,9 @@
+BUG_1: Null state index (Current index)
+BUG_2: Null pointer exception when starts to render State_Play after clicking "Start Game" in State_MainMenu
+BUG_3: Two entities that are in movement at the same time, can go throhgh other entity
+BUG_4: Sometimes entities can go through solid blocks
+BUG_5: Entity_NCP cannot execute teleport exit sequence	
+BUG_6: Problems playing two sounds at the same time
+BUG_7: Problems clicking buttons in Main Menu if you had clicked other button before
+BUG_8: (Solved) Cannot pass to Play_State from Main_Menu_State in some PC's after clicking "New Game" 
+BUG_9: FPS are not precise

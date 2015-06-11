@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Copy of Gonz's_Game/src/com/gonz/game/Window/Game_Window.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.gonz.game.Window.Game_Window"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Copy of Gonz's_Game"/>
+</launchConfiguration>

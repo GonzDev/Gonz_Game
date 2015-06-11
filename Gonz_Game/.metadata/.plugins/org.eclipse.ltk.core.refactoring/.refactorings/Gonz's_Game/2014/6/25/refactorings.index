@@ -1,0 +1,16 @@
+1403050473012	Rename type 'Game'
+1403054992995	Copy package
+1403055263400	Rename package 'com.gonz.game'
+1403055331172	Rename package 'com.gonz.game.window'
+1403055398748	Rename type 'Intro_State'
+1403055416347	Rename type 'StateManager'
+1403056462379	Delete elements
+1403056717162	Move file
+1403056721509	Delete element
+1403217065336	Rename package 'Input'
+1403218461949	Delete element
+1403218483244	Delete element
+1403391927367	Rename package 'com.gonz.game.Tile_World'
+1403392676738	Infer generic type arguments
+1403398799093	Delete element
+1403435270703	Delete element

@@ -1,0 +1,6 @@
+name=Player
+width=32
+height=32
+x_Tile=0
+y_Tile=0
+tileset=Player.png

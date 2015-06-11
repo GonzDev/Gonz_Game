@@ -1,0 +1,7 @@
+// Basic NPC
+name=NPC_3
+width=32
+height=32
+x_Tile=30
+y_Tile=30
+tileset=Default.png
